@@ -9,6 +9,8 @@ Exercises will (eventually) be put into folders based on topic. They should all 
 ## Answer Key
 Make one if you want. Make an account on Github, and learn how to do the following: fork this repository, create a new branch, make edits (or just submit your own answer if there's no answer there already), and then submit a pull request. GitHub explains what all of these are and more in their nice Tutorial when you make an account.
 
+All of this is good exercise, but kind of beside the point to learning Python for scientific computing.
+
 ## Resources
 There will be several books and other things referenced frequently as a place to look for information. An up-to-date list is given below of all of them:
 - [A Primer on Scientific Programming with Python](https://www.amazon.com/Scientific-Programming-Computational-Science-Engineering/dp/3642549586)
