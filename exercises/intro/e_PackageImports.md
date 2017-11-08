@@ -15,3 +15,6 @@ On a related note, **never, *ever*, use `from package import *`**. This is terri
 3. Try setting the value `3.14` to `np.pi`. What happens?
 4. Calculate the sine of 90 degrees. Is this right? Calculate the sine of pi/2 radians.
 5. Import the `scipy.constants` module as `sc`. There's a list of all of the different constants it contains [here](https://docs.scipy.org/doc/scipy/reference/constants.html). 
+
+## References
+The best reference for this section is probably section 1.3 from A Student's Guide to Python for Physical Modeling. This I *highly* suggest you read. For a more advanced look into the technical, programmer side of things, go to "Python in a Nutshell", page 139.
