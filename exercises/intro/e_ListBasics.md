@@ -45,4 +45,7 @@ In Python, that mechanism is the `list` object. The `list` object is incredibly 
 
 
 ## References
-There is an excellent introduction to lists [here](http://www.effbot.org/zone/python-list.htm).
+There is an excellent introduction to lists [here](http://www.effbot.org/zone/python-list.htm). It is especially worthwhile to take a look at the [performance](http://www.effbot.org/zone/python-list.htm#performance) section of that page. Analyzing performance tends to be a nice introduction to lower-level programming, which can be helpful when needed (for the speed and control it provides).
+
+
+
