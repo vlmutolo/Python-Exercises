@@ -1,13 +1,11 @@
 # NumPy Array Basics
 
 ## Prerequisites
-- Variables and Assignments
-- Package Imports
 - List Basics
 
 ## Introduction
 ### A Brief Introduction to Objects
-It's not often thought about, but every single piece of data in Python is stored in an "object" of some kind. Integers and floats are objects, and so are strings. These are fairly low-level objects (although very high level compared to languages like C++). There are higher-level objects still.
+It's not often thought about, but every single piece of data in Python is stored in an "object" of some kind. Integers and floats are objects, and so are strings. Integers and floats are fairly low-level objects (although very high level compared to languages like C++). There are higher-level objects still.
 
 The terms "higher" and "lower"-level refer to levels of abstraction. For example, the lowest-level form of an integer would be that integer's representation in binary, and a small amount of memory allocated to its identification as an integer. If we had to constantly work with such low levels of abstraction, programming would take forever. An example of a high-level object would be Python's `string` object. It is a collection of `char` objects, which themselves are objects with abstractions still. It's much nicer to work with strings than having to program every 128-bit `char` by yourself. However, low-level operations and storage routines are much faster than abstractions. In fact, the founding principle behind Python itself is higher levels of abstraction, because "programmer time is more important than execution time".
 
